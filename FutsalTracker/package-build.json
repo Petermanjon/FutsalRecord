@@ -1,0 +1,11 @@
+{
+  "name": "futsal-manager-production",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "cd client && npm run build",
+    "build:server": "tsc server/index.ts --outDir dist --target es2020 --module commonjs",
+    "start": "node dist/index.js",
+    "postbuild": "cp -r client/dist/* dist/public/ && cp sw.js dist/ && cp client/public/* dist/public/"
+  }
+}

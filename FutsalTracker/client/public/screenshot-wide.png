@@ -1,0 +1,15 @@
+<svg width="640" height="1136" viewBox="0 0 640 1136" xmlns="http://www.w3.org/2000/svg">
+<rect width="640" height="1136" fill="#ffffff"/>
+<rect x="0" y="0" width="640" height="80" fill="#16a34a"/>
+<circle cx="50" cy="40" r="16" fill="white"/>
+<text x="80" y="50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">Futsal Manager</text>
+<rect x="20" y="100" width="600" height="200" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="30" y="130" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#111827">Mis Equipos</text>
+<text x="30" y="160" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Gestiona tus equipos de fútsal</text>
+<rect x="40" y="180" width="560" height="60" rx="4" fill="white" stroke="#d1d5db"/>
+<circle cx="70" cy="210" r="20" fill="#16a34a"/>
+<text x="100" y="215" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111827">Benjamin D</text>
+<rect x="20" y="320" width="600" height="200" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+<text x="30" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#111827">Partidos</text>
+<text x="30" y="380" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Programa y gestiona partidos</text>
+</svg>
